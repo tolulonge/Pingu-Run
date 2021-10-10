@@ -1,0 +1,131 @@
+{
+    "m_SelectedDeviceId": "R58R61FTDKX",
+    "m_SelectedPackage": {
+        "deviceId": "R58R61FTDKX",
+        "name": "com.tolulonge.PinguRun",
+        "processId": 22627,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "R58R61FTDKX",
+            "name": "com.sec.android.app.launcher",
+            "processId": 2262,
+            "exited": false
+        },
+        {
+            "deviceId": "R58R61FTDKX",
+            "name": "com.tolulonge.PinguRun",
+            "processId": 19849,
+            "exited": true
+        },
+        {
+            "deviceId": "R58R61FTDKX",
+            "name": "com.tolulonge.PinguRun",
+            "processId": 27025,
+            "exited": true
+        },
+        {
+            "deviceId": "R58R61FTDKX",
+            "name": "com.tolulonge.PinguRun",
+            "processId": 30988,
+            "exited": true
+        },
+        {
+            "deviceId": "R58R61FTDKX",
+            "name": "com.tolulonge.PinguRun",
+            "processId": 1263,
+            "exited": true
+        },
+        {
+            "deviceId": "R58R61FTDKX",
+            "name": "com.tolulonge.PinguRun",
+            "processId": 3374,
+            "exited": true
+        },
+        {
+            "deviceId": "R58R61FTDKX",
+            "name": "com.tolulonge.PinguRun",
+            "processId": 8668,
+            "exited": false
+        },
+        {
+            "deviceId": "R58R61FTDKX",
+            "name": "com.tolulonge.PinguRun",
+            "processId": 9353,
+            "exited": false
+        },
+        {
+            "deviceId": "R58R61FTDKX",
+            "name": "com.tolulonge.PinguRun",
+            "processId": 15232,
+            "exited": false
+        },
+        {
+            "deviceId": "R58R61FTDKX",
+            "name": "com.tolulonge.PinguRun",
+            "processId": 22246,
+            "exited": false
+        },
+        {
+            "deviceId": "R58R61FTDKX",
+            "name": "com.tolulonge.PinguRun",
+            "processId": 22627,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}
