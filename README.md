@@ -1,5 +1,5 @@
 # Pingu-Run
-A running pingu trying to survive obstacles in the cold biting snow
+A mobile running pingu game trying to survive obstacles in the cold biting snow made with unity
 
 Features:
 - A running pingu in the snow with glaciers sliding along as obstacles
